@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### GitHub stats
+![na2na8's GitHub stats](https://github-readme-stats.vercel.app/api?username=na2na8&show_icons=true&theme=graywhite)
+--------
+### Ongoing project
+[![Finance Domain Language Model](https://github-readme-stats.vercel.app/api/pin/?username=deep-over&repo=Financial-Pre-trained-research&theme=graywhite)](https://github.com/deep-over/Financial-Pre-trained-research)
 <!--
 **na2na8/na2na8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
