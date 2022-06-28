@@ -1,5 +1,5 @@
 ### GitHub stats
-![na2na8's GitHub stats](https://github-readme-stats.vercel.app/api?username=na2na8&show_icons=true&theme=graywhite)
+![na2na8's GitHub stats](https://github-readme-stats.vercel.app/api?username=na2na8&show_icons=true&theme=graywhite&count_private=true)
 --------
 ### Ongoing project
 [![Finance Domain Language Model](https://github-readme-stats.vercel.app/api/pin/?username=deep-over&repo=Financial-Pre-trained-research&theme=graywhite)](https://github.com/deep-over/Financial-Pre-trained-research)
