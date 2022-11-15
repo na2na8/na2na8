@@ -3,6 +3,8 @@
 --------
 ### Ongoing project
 [![Finance Domain Language Model](https://github-readme-stats.vercel.app/api/pin/?username=deep-over&repo=Financial-Pre-trained-research&theme=graywhite)](https://github.com/deep-over/Financial-Pre-trained-research)
+[![2022AIOptPBL](https://github-readme-stats.vercel.app/api/pin/?username=gkalstn000&repo=pbl2022&theme=graywhite)](https://github.com/gkalstn000/pbl2022)
+[![FreeStudy](https://github-readme-stats.vercel.app/api/pin/?username=Hanyang-Queen-Club&repo=FW2022&theme=graywhite)](https://github.com/Hanyang-Queen-Club/FW2022)
 <!--
 **na2na8/na2na8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
