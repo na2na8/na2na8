@@ -3,7 +3,7 @@
 --------
 ### Ongoing projects
 [![Finance Domain Language Model](https://github-readme-stats.vercel.app/api/pin/?username=deep-over&repo=Financial-Pre-trained-research&theme=graywhite)](https://github.com/deep-over/Financial-Pre-trained-research)
-[![2023_Spring](https://github-readme-stats.vercel.app/api/pin/?username=Hanyang-Queen-Club&repo=2023_Spring&theme=graywhite)]([https://github.com/Hanyang-Queen-Club/FW2022](https://github.com/Hanyang-Queen-Club/2023_Spring))
+[![2023_Spring](https://github-readme-stats.vercel.app/api/pin/?username=Hanyang-Queen-Club&repo=2023_Spring&theme=graywhite)](https://github.com/Hanyang-Queen-Club/2023_Spring)
 ---------
 ### Finished projects
 [![2022AIOptPBL](https://github-readme-stats.vercel.app/api/pin/?username=gkalstn000&repo=pbl2022&theme=graywhite)](https://github.com/gkalstn000/pbl2022)
