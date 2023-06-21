@@ -4,11 +4,12 @@
 ### Ongoing projects
 [![Finance Domain Language Model](https://github-readme-stats.vercel.app/api/pin/?username=deep-over&repo=Financial-Pre-trained-research&theme=graywhite)](https://github.com/deep-over/Financial-Pre-trained-research)
 [![KorPatBART](https://github-readme-stats.vercel.app/api/pin/?username=na2na8&repo=PatentSpecification&theme=graywhite)](https://github.com/na2na8/PatentSpecification)
-[![2023_Spring](https://github-readme-stats.vercel.app/api/pin/?username=Hanyang-Queen-Club&repo=2023_Spring&theme=graywhite)](https://github.com/Hanyang-Queen-Club/2023_Spring)
 ---------
 ### Finished projects
 [![2022AIOptPBL](https://github-readme-stats.vercel.app/api/pin/?username=gkalstn000&repo=pbl2022&theme=graywhite)](https://github.com/gkalstn000/pbl2022)
 [![FreeStudy](https://github-readme-stats.vercel.app/api/pin/?username=Hanyang-Queen-Club&repo=FW2022&theme=graywhite)](https://github.com/Hanyang-Queen-Club/FW2022)
+[![2023_Spring](https://github-readme-stats.vercel.app/api/pin/?username=Hanyang-Queen-Club&repo=2023_Spring&theme=graywhite)](https://github.com/Hanyang-Queen-Club/2023_Spring)
+[![2023FinAI](https://github-readme-stats.vercel.app/api/pin/?username=na2na8&repo=2023_FinAI_FinNewsGenerator&theme=graywhite)](https://github.com/na2na8/2023_FinAI_FinNewsGenerator)
 <!--
 **na2na8/na2na8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
