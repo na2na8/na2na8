@@ -7,7 +7,9 @@
 ### Finished projects
 [![Finance Domain Language Model](https://github-readme-stats.vercel.app/api/pin/?username=deep-over&repo=Financial-Pre-trained-research&theme=graywhite)](https://github.com/deep-over/Financial-Pre-trained-research)
 [![KorPatBART](https://github-readme-stats.vercel.app/api/pin/?username=na2na8&repo=KorPatBART&theme=graywhite)](https://github.com/na2na8/KorPatBART)
+[![LeetSpeak](https://github-readme-stats.vercel.app/api/pin/?username=na2na8&repo=LeetSpeakHateSpeechDetection&theme=graywhite)](https://github.com/na2na8/LeetSpeakHateSpeechDetection)
 [![2023FinAI](https://github-readme-stats.vercel.app/api/pin/?username=na2na8&repo=2023_FinAI_FinNewsGenerator&theme=graywhite)](https://github.com/na2na8/2023_FinAI_FinNewsGenerator)
+
 <!--
 **na2na8/na2na8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
