@@ -2,7 +2,7 @@
 ![na2na8's GitHub stats](https://github-readme-stats.vercel.app/api?username=na2na8&show_icons=true&theme=graywhite&count_private=true)
 --------
 ### Ongoing projects
-
+[![CoCoaH](https://github-readme-stats.vercel.app/api/pin/?username=na2na8&repo=CoCoaH&theme=graywhite)](https://github.com/na2na8/CoCoaH)
 ---------
 ### Finished projects
 [![Finance Domain Language Model](https://github-readme-stats.vercel.app/api/pin/?username=deep-over&repo=Financial-Pre-trained-research&theme=graywhite)](https://github.com/deep-over/Financial-Pre-trained-research)
